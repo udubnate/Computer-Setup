@@ -3,6 +3,7 @@ winget install Microsoft.PowerToys
 winget install Obsidian.Obsidian
 winget install Microsoft.VisualStudioCode
 winget install Microsoft.PowerShell
+winget install OpenJS.NodeJS
 
 # Install development tools
 winget install Docker.DockerDesktop
